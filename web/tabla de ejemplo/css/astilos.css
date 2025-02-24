@@ -1,0 +1,25 @@
+
+/* Estilo para los párrafos */
+p {
+    font-family: Arial, sans-serif;
+    font-size: 18px;
+    color: #ec5353; /* Rojo */
+}
+
+/* Estilo para las tablas */
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+/* Estilo para las celdas de la tabla (encabezados y datos) */
+th, td {
+    border: 1px solid #07d60b; /* Borde gris claro */
+    padding: 8px;
+    text-align: left;
+}
+
+/* Estilo específico para los encabezados de tabla */
+th {
+    background-color: #b2d418; /* Fondo gris claro */
+}

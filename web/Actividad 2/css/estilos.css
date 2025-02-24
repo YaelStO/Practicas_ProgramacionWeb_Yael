@@ -1,0 +1,15 @@
+ h1 {
+    font-family: 'times new roman',times, serif;
+    font: size 35px;
+    color: blue;
+}
+.parrafo_principal{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: rgb(179, 211, 0);
+}
+.imagenes{
+    width: 250px;
+    height: 250px;
+    border-radius: 50px;
+}

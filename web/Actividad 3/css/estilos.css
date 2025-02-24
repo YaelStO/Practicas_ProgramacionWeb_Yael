@@ -1,0 +1,20 @@
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: rgb(42, 42, 165);
+}
+
+/* Estilo para el párrafo principal */
+.parrafo_principal {
+    font-size: 20px;
+    
+    color: #e72121;
+}
+.imagenes{
+    width: 250px;
+    height: 250px;
+    border-radius: 20px;
+}
+
+
+
